@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jasmine-node --verbose specs"
+  },
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "jasmine-node": "1.14.5"
+  }
+}
